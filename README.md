@@ -1,5 +1,5 @@
 # basic_games_unity
-Basic games which are created with Unity and C#, by Alper Efe Şahin.
+Basic games which are created with Unity and C#.
 
 ## Rocket Game:
 Purpose of the game: Try to reach red area.
